@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about turtles and carrots</description><language>en</language>
+<lastBuildDate>Sat, 08 Apr 2023 13:23:27 +0300</lastBuildDate>
+<pubDate>Sat, 08 Apr 2023 13:23:27 +0300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+
+</title><description><![CDATA[
+<p>Chat bots info: Τα chatbots είναι υπολογιστικά προγράμματα που επιτρέπουν στους ανθρώπους να επικοινωνούν με μηχανές μέσω συνομιλίας. Χρησιμοποιούνται συχνά σε επιχειρήσεις για την αυτοματοποίηση της εξυπηρέτησης πελατών και τη μείωση του φόρτου εργασίας στο ανθρώπινο προσωπικό. Μπορούν να παρέχουν βοήθεια και απαντήσεις σε συγκεκριμένες ερωτήσεις, να παρακολουθούν τις προτιμήσεις των χρηστών και να παρέχουν συστάσεις.
+
+
+
+ API info: Τα API περιγράφουν τον τρόπο με τον οποίο μπορεί να επικοινωνήσει ένα πρόγραμμα με ένα άλλο, και ποιες λειτουργίες και δεδομένα είναι διαθέσιμα για την ανταλλαγή. Αυτό καθιστά τα API ένα κοινό σημείο επαφής για διαφορετικές εφαρμογές και υπηρεσίες, που διευκολύνει την αλληλεπίδραση και την ανταλλαγή δεδομένων μεταξύ τους..</p>
+
+
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/siosiosio.html</link>
+<guid>http://example.com/blog/./siosiosio.html</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 08 Apr 2023 12:48:23 +0300</pubDate></item>
+</channel></rss>
